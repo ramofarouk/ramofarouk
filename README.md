@@ -1,35 +1,142 @@
-# Hi there i'm Omar Farouk, Senior Software Full Stack Engineer 👋
-🔭 I’m currently working on AI App and multiple mobile projects.<br>
-🌱 I’m currently Learning Machine Learning<br>
-👯 I’m looking to collaborate on open-source projects<br>
-💬Ask me about Flutter, Laravel, Nuxt.js, FastApi, Django, Java<br>
-📫 How to reach me: LinkedIn: Omar Farouk KOUGBADA | Gmail: Komarf28@gmail.com <br>
-😄 Pronouns: he/his
+<div align="center">
 
-## Languages 
-- French
-- English
-- Arabic
+# Omar Farouk KOUGBADA
 
+### 🏆 Google Developer Expert — Flutter & Dart
+#### Senior Full Stack & AI Engineer · Founder @ KOF CORPORATION · Lecturer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-farouk-kougbada/) 
+[![GDE Badge](https://img.shields.io/badge/Google_Developer_Expert-Flutter_%26_Dart-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/community/experts/directory)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Farouk_KOUGBADA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-farouk-kougbada/)
+[![Email](https://img.shields.io/badge/Gmail-Komarf28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Komarf28@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=omarfarouk228&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) 
+📍 Lomé, Togo · 🌍 Africa · 🇫🇷 France · 🇦🇪 Dubai
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omarfarouk228&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarouk228&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=omarfarouk228&theme=onedark&hide_border=false)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omarfarouk228&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omarfarouk228&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👤 About
+
+Senior **Full Stack & AI Engineer** and **Google Developer Expert in Flutter & Dart**, I design and ship AI-powered digital products for African and international markets. From fine-tuning LLMs and building RAG pipelines to architecting production-grade mobile apps, I operate across the full stack — mobile, web, backend, and AI.
+
+Founder of **KOF CORPORATION** (2022), I lead SaaS projects, AI/LLM integrations, and technical training for teams across Africa, France, and the Middle East.
+
+I believe African technology has a unique voice on the world stage — which is why I submit talks to major international Flutter conferences and teach as a Lecturer at the **Institut Africain d'Informatique (IAI)**.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[TogoLM](https://github.com/omarfarouk228/togolm)** | Open-source AI knowledge layer for Togo — 50K+ structured docs, RAG engine, fine-tuned Mistral 7B & public REST API | Python · Mistral 7B · RAG · Next.js |
+| **[Karaba Africa](https://karaba.africa)** | AI-powered African talent recruitment — upload a job description, get the best verified candidates in under 10 seconds | FastAPI · Vertex AI · Next.js · Microservices · PostgreSQL |
+| **[NextFlutter](https://nextflutter.com)** | Flutter SaaS e-learning platform — integrated DartPad, AI mock interviews, ~40 active learners | Next.js · FastAPI · DartPad |
+| **[Geny Voice AI](https://usegeny.com)** | AI voice assistant for SMBs — real-time WebSocket, Silero VAD, WhatsApp Business API integration | Flutter · NestJS · Pipecat |
+
+---
+
+## 🎤 Community & Talks
+
+- 🏅 **Google Developer Expert** — Flutter & Dart (renewed 2026)
+- 📣 CFP submitted: **Flutter Forward Africa** (Johannesburg), **Flutter Conf** (Mauritius, Berlin), **FlutterCon** (Nigeria, Penang, Vicenza)
+- 🎓 **Lecturer**
+- 🧑‍🏫 Trainer: Flutter Architecture & AI, React Native CLI, Google Cloud ACE, Power BI, Looker Studio
+- 🌐 Contributor **GDG Bamenda** — Google Cloud ACE training
+
+---
+
+## 🏢 KOF CORPORATION
+
+> *Software Engineering & Consulting · Lomé, Togo · Founded 2022*
+
+KOF CORPORATION supports startups, SMBs, and institutions in their digital transformation — from product design to production deployment. Expertise: mobile/web development, AI integration, technical consulting and training. Active across Africa, France, and Dubai.
+
+---
+
+## 💻 Tech Stack
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & API**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**AI & Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=omarfarouk228&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarouk228&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarfarouk228&theme=onedark&hide_border=false)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=omarfarouk228&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarfarouk228&theme=react-dark&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarfarouk228&theme=onedark&hide_border=false&layout=compact)](https://wakatime.com/@omarfarouk228)
+
+</div>
+
+---
+
+## 🗣️ Languages
+
+🇫🇷 French (native) · 🇬🇧 English (professional) · 🇩🇿 Arabic (intermediate)
+
+---
+
+<div align="center">
+
+*Building Africa's digital future, one commit at a time.* 🌍
+
+[![Visits](https://visitcount.itsvg.in/api?id=omarfarouk228&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
